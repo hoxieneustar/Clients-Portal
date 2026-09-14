@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "Sendja Signature x Hoxie",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
+    googleApiKey: "AIzaSyCi15XA1h7eZz6IbT-qQEVKyJyaljLrFPU",
     whatsappAdmin: "08999111280" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
