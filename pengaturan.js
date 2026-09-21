@@ -5,7 +5,7 @@
 
 const CONFIG_APP = {
     // 1. Nama Studio Foto Anda (Akan tampil di header dan portal klien)
-    namaVendor: "Sendja Signature x Hoxie",
+    namaVendor: "HOXIE PRODUCTION",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
     googleApiKey: "AIzaSyCi15XA1h7eZz6IbT-qQEVKyJyaljLrFPU",
